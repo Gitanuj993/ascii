@@ -1,0 +1,2 @@
+# ascii
+welcome AT  >> console project to convert ascii code into normal code and normal code into ascii or unicode
